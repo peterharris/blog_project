@@ -1,0 +1,24 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+/*.nav-font {
+  font-family: 'Montserrat', sans-serif;
+}*/
+
+.centerstage {
+  margin: auto;
+}
+
+.postdate {
+  text-align: center;
+}
+
+.posttitle {
+  font-size: 3em;
+  text-align: center;
+}
+
+.btn-comment {
+  position: absolute;
+  right: 0px;
+}
